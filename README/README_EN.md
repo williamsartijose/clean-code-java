@@ -279,9 +279,10 @@ try {
 
 Translations are available in other languages:
 
-- ![br](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Português**: [Boas práticas de código limpo em Java](https://github.com/seu-repositorio/README_BR)
-- ![en](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) **English**: [Clean Code Best Practices in Java](https://github.com/seu-repositorio/README_EN)
-- ![es](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Uruguay.png) **Español**: [Buenas prácticas de código limpio en Java](https://github.com/seu-repositorio/README_ES)
+- ![br](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Português**: [Boas práticas de código limpo em Java](https://github.com/williamsartijose/clean-code-java/blob/main/README/README_BR.md)
+- ![en](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) **English**: [Clean Code Best Practices in Java](https://github.com/williamsartijose/clean-code-java/blob/main/README/README_EN.md)
+- ![es](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Uruguay.png) **Español**: [Buenas prácticas de código limpio en Java](https://github.com/williamsartijose/clean-code-java/blob/main/README/README_ES.md)
+
 
 
 
